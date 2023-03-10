@@ -1,0 +1,5 @@
+services:
+  webapp:
+    image: veg-recognition:latest
+    ports:
+      - "80:80"
